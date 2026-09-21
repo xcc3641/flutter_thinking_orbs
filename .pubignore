@@ -1,0 +1,8 @@
+# Exclude build artifacts, test cache, and heavy reference files
+build/
+.dart_tool/
+ref/upstream/
+assets/*.mp4
+*.iml
+.idea/
+.DS_Store
