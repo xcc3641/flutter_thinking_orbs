@@ -13,6 +13,10 @@
 </p>
 
 <p align="center">
+  <b>English</b> · <a href="README.zh-CN.md">简体中文</a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Dart-3.12+-0175C2?logo=dart&logoColor=white" alt="Dart 3" />
   <img src="https://img.shields.io/badge/Flutter-3.27+-02569B?logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/iOS%20·%20Android%20·%20macOS%20·%20Web%20·%20Windows%20·%20Linux-supported-000000" alt="Platforms" />
