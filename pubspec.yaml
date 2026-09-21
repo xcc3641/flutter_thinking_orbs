@@ -1,0 +1,28 @@
+name: flutter_thinking_orbs
+description: >-
+  Dotted, genuinely 3D loading indicators for AI and agent interfaces in Flutter.
+  Nine hand-tuned designs, two purpose-tuned sizes, one line to drop in.
+version: 0.0.1
+homepage: https://github.com/haplollc/ThinkingOrbs
+repository: https://github.com/haplollc/ThinkingOrbs
+topics:
+  - loading
+  - ai
+  - agent
+  - animation
+  - progress-indicator
+
+environment:
+  sdk: ^3.12.2
+  flutter: ">=3.27.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
