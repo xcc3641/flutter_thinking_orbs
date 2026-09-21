@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:thinking_orb/thinking_orb.dart';
+import 'package:thinking_orbs_kit/thinking_orbs_kit.dart';
 
 class GoldenResolved {
   GoldenResolved({required this.mode, required this.speed, required this.opts});

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:example/main.dart';
-import 'package:thinking_orb/thinking_orb.dart';
+import 'package:thinking_orbs_kit/thinking_orbs_kit.dart';
 
 void main() {
   testWidgets('ThinkingOrbsExampleApp mounts and displays orbs and labels', (
