@@ -17,10 +17,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Dart-3.12+-0175C2?logo=dart&logoColor=white" alt="Dart 3" />
-  <img src="https://img.shields.io/badge/Flutter-3.27+-02569B?logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/iOS%20·%20Android%20·%20macOS%20·%20Web%20·%20Windows%20·%20Linux-supported-000000" alt="Platforms" />
-  <img src="https://img.shields.io/badge/License-MIT-blue" alt="MIT License" />
+  <a href="https://pub.dev/packages/thinking_orbs_kit"><img src="https://img.shields.io/pub/v/thinking_orbs_kit.svg" alt="pub package" /></a>
+  <a href="https://pub.dev/packages/thinking_orbs_kit/score"><img src="https://img.shields.io/pub/points/thinking_orbs_kit" alt="pub points" /></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" /></a>
+  <a href="https://pub.dev/packages/thinking_orbs_kit"><img src="https://img.shields.io/badge/platform-android%20%7C%20ios%20%7C%20web%20%7C%20macos%20%7C%20windows%20%7C%20linux-blue.svg" alt="Platform" /></a>
 </p>
 
 ---
