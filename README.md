@@ -156,6 +156,14 @@ OrbClockOverride(
 - **Reduce Motion**: Automatically detects `MediaQuery.disableAnimations` and parks the orb on a representative static frame (`t = 0.6`) without CPU/GPU ticker overhead.
 - **Contrast**: Respects high contrast accessibility settings.
 
+## Credits & References
+
+This package is a 1:1 Flutter port based on:
+- **[haplollc/ThinkingOrbs](https://github.com/haplollc/ThinkingOrbs)**: The native Apple platform implementation by Haplo LLC, providing the Swift math engine, golden vectors, and SwiftUI API ergonomics.
+- **[Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)**: The original 3D geometry engine and motion designs by [Jakub Antalik](https://github.com/Jakubantalik) (see also [libraries.dev/orbs](https://libraries.dev/orbs)).
+
+All 9 mathematical designs, 2 tuned scale profiles, 256-level ink quantization algorithms, and golden vector test suites are preserved faithfully.
+
 ## Reference Documentation
 
 Detailed architectural and specification documents are included in the repository:
@@ -167,6 +175,6 @@ Detailed architectural and specification documents are included in the repositor
 ## License
 
 MIT License. See [LICENSE](LICENSE) for details.
-Original thinking-orbs designs and engine by Jakub Antalik.
-Swift ThinkingOrbs by Haplo LLC.
-Flutter port by Chencheng Xie.
+- Original thinking-orbs designs and engine by Jakub Antalik (MIT).
+- Swift ThinkingOrbs by Haplo LLC (MIT).
+- Flutter port by Chencheng Xie (MIT).
