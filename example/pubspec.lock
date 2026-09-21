@@ -67,13 +67,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_thinking_orbs:
-    dependency: "direct main"
-    description:
-      path: ".."
-      relative: true
-    source: path
-    version: "0.0.1"
   leak_tracker:
     dependency: transitive
     description:
@@ -191,6 +184,13 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.7.11"
+  thinking_orb:
+    dependency: "direct main"
+    description:
+      path: ".."
+      relative: true
+    source: path
+    version: "0.0.1"
   vector_math:
     dependency: transitive
     description:

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_thinking_orbs/flutter_thinking_orbs.dart';
+import 'package:thinking_orb/thinking_orb.dart';
 
 void main() {
   group('Public API parity tests', () {

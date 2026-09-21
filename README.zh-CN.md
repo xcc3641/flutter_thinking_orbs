@@ -37,22 +37,20 @@ ThinkingOrb(design: OrbDesign.searching)
 
 ```yaml
 dependencies:
-  flutter_thinking_orbs:
-    git:
-      url: https://github.com/xcc3641/flutter_thinking_orbs
+  thinking_orb: ^0.0.1
 ```
 
 导入包：
 
 ```dart
-import 'package:flutter_thinking_orbs/flutter_thinking_orbs.dart';
+import 'package:thinking_orb/thinking_orb.dart';
 ```
 
 ## 快速上手
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:flutter_thinking_orbs/flutter_thinking_orbs.dart';
+import 'package:thinking_orb/thinking_orb.dart';
 
 class AssistantStatus extends StatelessWidget {
   const AssistantStatus({super.key});

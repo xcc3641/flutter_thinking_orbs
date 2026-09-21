@@ -37,22 +37,20 @@ Add `flutter_thinking_orbs` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flutter_thinking_orbs:
-    git:
-      url: https://github.com/xcc3641/flutter_thinking_orbs
+  thinking_orb: ^0.0.1
 ```
 
 Then import it:
 
 ```dart
-import 'package:flutter_thinking_orbs/flutter_thinking_orbs.dart';
+import 'package:thinking_orb/thinking_orb.dart';
 ```
 
 ## Quick start
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:flutter_thinking_orbs/flutter_thinking_orbs.dart';
+import 'package:thinking_orb/thinking_orb.dart';
 
 class AssistantStatus extends StatelessWidget {
   const AssistantStatus({super.key});
