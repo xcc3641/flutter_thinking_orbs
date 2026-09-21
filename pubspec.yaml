@@ -3,8 +3,9 @@ description: >-
   Dotted, genuinely 3D loading indicators for AI and agent interfaces in Flutter.
   Nine hand-tuned designs, two purpose-tuned sizes, one line to drop in.
 version: 0.0.1
-homepage: https://github.com/haplollc/ThinkingOrbs
-repository: https://github.com/haplollc/ThinkingOrbs
+homepage: https://github.com/xcc3641/flutter_thinking_orbs
+repository: https://github.com/xcc3641/flutter_thinking_orbs
+issue_tracker: https://github.com/xcc3641/flutter_thinking_orbs/issues
 topics:
   - loading
   - ai

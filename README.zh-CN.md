@@ -38,7 +38,8 @@ ThinkingOrb(design: OrbDesign.searching)
 ```yaml
 dependencies:
   flutter_thinking_orbs:
-    path: /path/to/flutter_thinking_orbs # 或使用 git/pub 仓库路径
+    git:
+      url: https://github.com/xcc3641/flutter_thinking_orbs
 ```
 
 导入包：

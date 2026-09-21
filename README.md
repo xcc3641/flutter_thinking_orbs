@@ -39,7 +39,7 @@ Add `flutter_thinking_orbs` to your `pubspec.yaml`:
 dependencies:
   flutter_thinking_orbs:
     git:
-      url: https://github.com/haplollc/ThinkingOrbs # or your local / pub path
+      url: https://github.com/xcc3641/flutter_thinking_orbs
 ```
 
 Then import it:
